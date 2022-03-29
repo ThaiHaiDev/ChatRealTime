@@ -24,6 +24,16 @@
       + Firebase Authentication
       
       + Firebase Firestore
+  
+- Install commands: 
+
+      + npm install --save antd @ant-design/icons date-fns firebase lodash styled-components react-router-dom
+      
+      + npm i -g firebase-tools
+      
+      + if command in line 2 error, use: Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
+      
+      + use firebase emulators: Authentication, Firestore: http://localhost:4000/
       
 - Link video demo: 
 
