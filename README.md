@@ -35,7 +35,7 @@
       
       + use firebase emulators: Authentication, Firestore: http://localhost:4000/
       
-- Link video demo: 
+- Link video demo: https://youtu.be/Uo1C8gOrfTQ
 
 - Refer: HoleTex. Thanks you.
 # Getting Started with Create React App
