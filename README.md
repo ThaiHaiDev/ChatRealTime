@@ -1,3 +1,33 @@
+# Chat Real-Time With ReactJS and Firebase
+
+- Description: 
+
+      + Login with Google.
+      
+      + Select room and add member to the room, show members in room.
+      
+      + Add room and show list room.
+      
+      + Chat message with show real time message and show messages from the members in the room.
+      
+      + Sign out.
+ 
+- Used: 
+      + React Hooks
+      
+      + Ant Design
+      
+      + Styled Components
+      
+      + Context API
+      
+      + Firebase Authentication
+      
+      + Firebase Firestore
+      
+- Link video demo: 
+
+- Refer: HoleTex. Thanks you.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
